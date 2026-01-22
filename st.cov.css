@@ -1,0 +1,10 @@
+body {
+  margin-left: 30px;
+  background-image: url("backgroun.png");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  background-repeat: repeat;
+  color: rgb(126, 24, 24);
+  font-weight: bold;
+}
